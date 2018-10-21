@@ -6,4 +6,5 @@
     <color name="azul">#013dff</color>
     <color name="verde">#11ff00</color>
     <color name="rojo">#ff0000</color>
+    <color name="negro">#ff000000</color>
 </resources>
